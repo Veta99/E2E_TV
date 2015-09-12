@@ -17,7 +17,7 @@ public class TV{
 		String[] column = null;
 		int lines = 0;
 		int columns = 0;
-		String SplitBy = "^";
+		String SplitBy = ",";
 		String text_case_id = null;
 		String url = null;
 		String title_expected = null;
